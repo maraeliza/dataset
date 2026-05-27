@@ -1,0 +1,21 @@
+,Uberaba,Uberlândia,Araxá,Patos de Minas,Ituiutaba,Frutal,Patrocínio,Monte Carmelo,Araguari,Sacramento,Conceição das Alagoas,Prata,Campina Verde,Canápolis,Centralina,Coromandel,Nova Ponte,Perdizes,Tupaciguara,Indianópolis
+Uberaba,0,99,106,,,,,,,54,50,,,,,,72,81,,
+Uberlândia,99,0,,,,,,85,32,,,81,,,,,,,58,40
+Araxá,106,,0,121,,,72,,,,,,,,,,,46,,
+Patos de Minas,,,121,0,,,64,,,,,,,,,73,,,,
+Ituiutaba,,,,,0,,,,,,,68,63,39,51,,,,,
+Frutal,,,,,,0,,,,,59,,79,,,,,,,
+Patrocínio,,,72,64,,,0,58,,,,,,,,57,,,,
+Monte Carmelo,,85,,,,,58,0,,,,,,,,42,,,,
+Araguari,,32,,,,,,,0,,,,,,,,,,,52
+Sacramento,54,,,,,,,,,0,,,,,,,,,,
+Conceição das Alagoas,50,,,,,59,,,,,0,,,,,,,,,
+Prata,,81,,,68,,,,,,,0,64,,,,,,83,
+Campina Verde,,,,,63,79,,,,,,64,0,,,,,,,
+Canápolis,,,,,39,,,,,,,,,0,15,,,,,
+Centralina,,,,,51,,,,,,,,,15,0,,,,,
+Coromandel,,,,73,,,57,42,,,,,,,,0,,,,
+Nova Ponte,72,,,,,,,,,,,,,,,,0,47,,28
+Perdizes,81,,46,,,,,,,,,,,,,,47,0,,
+Tupaciguara,,58,,,,,,,,,,83,,,,,,,0,
+Indianópolis,,40,,,,,,,52,,,,,,,,28,,,0
