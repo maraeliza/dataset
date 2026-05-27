@@ -1,0 +1,10 @@
+,Uberaba,Uberlândia,Araxá,Patos de Minas,Ituiutaba,Frutal,Patrocínio,Monte Carmelo,Araguari
+Uberaba,0,99,106,,,,,,
+Uberlândia,99,0,,,,,,85,32
+Araxá,106,,0,121,,,72,,
+Patos de Minas,,,121,0,,,64,,
+Ituiutaba,,,,,0,,,,
+Frutal,,,,,,0,,,
+Patrocínio,,,72,64,,,0,58,
+Monte Carmelo,,85,,,,,58,0,
+Araguari,,32,,,,,,,0
